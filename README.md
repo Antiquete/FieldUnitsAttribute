@@ -1,6 +1,6 @@
 # Field Units
 
-Add readable units to Inspector labels with `[FieldUnit("m")]`:
+Add readable units to Inspector Fields with `[FieldUnit("m")]`:
 
 ```csharp
 using UnityEngine;
