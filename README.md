@@ -27,3 +27,4 @@ Duration (s)    [2.5]
 - Issues: [https://github.com/Antiquete/FieldUnitsAttribute/issues](https://github.com/Antiquete/FieldUnitsAttribute/issues)
 - Email: antiquete@proton.me
 - Website: [antiquete.cc](https://antiquete.cc/)
+- License: MIT; see [`LICENSE`](LICENSE).

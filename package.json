@@ -1,0 +1,27 @@
+{
+  "name": "com.antiquete.fieldunits",
+  "version": "1.0.0",
+  "displayName": "Field Units",
+  "description": "Add readable units to Inspector field labels with the [FieldUnit] attribute.",
+  "unity": "6000.0",
+  "keywords": [
+    "unity",
+    "inspector",
+    "units",
+    "attribute",
+    "editor",
+    "labels",
+    "utility"
+  ],
+  "author": {
+    "name": "Antiquete",
+    "email": "antiquete@proton.me",
+    "url": "https://antiquete.cc/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Antiquete/FieldUnitsAttribute.git"
+  },
+  "documentationUrl": "https://github.com/Antiquete/FieldUnitsAttribute#readme",
+  "license": "MIT"
+}
