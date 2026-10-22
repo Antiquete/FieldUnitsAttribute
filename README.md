@@ -4,7 +4,7 @@ Add readable units to Inspector Fields with `[FieldUnit("m")]`:
 
 ```csharp
 using UnityEngine;
-using Antiquete.FieldUnits;
+using FieldUnits;
 
 public class Movement : MonoBehaviour
 {

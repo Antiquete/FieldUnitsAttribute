@@ -1,6 +1,6 @@
 {
   "name": "Antiquete.FieldUnits",
-  "rootNamespace": "Antiquete.FieldUnits",
+  "rootNamespace": "FieldUnits",
   "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],

@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Antiquete.FieldUnits
+namespace FieldUnits
 {
     [CustomPropertyDrawer(typeof(FieldUnitAttribute))]
     public class FieldUnitDrawer : PropertyDrawer

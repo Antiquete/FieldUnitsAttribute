@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Antiquete.FieldUnits
+namespace FieldUnits
 {
     public class FieldUnitAttribute : PropertyAttribute
     {
