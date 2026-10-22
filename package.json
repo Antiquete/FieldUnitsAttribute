@@ -1,6 +1,6 @@
 {
   "name": "com.antiquete.fieldunits",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Field Units",
   "description": "Add readable units to Inspector field labels with the [FieldUnit] attribute.",
   "unity": "6000.0",
